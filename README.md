@@ -62,7 +62,7 @@ It really motivates me to continue this project further.
 and click the below button!  <br />
 - Get String Session By Repl.it
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TeamEviral/HaritaRobot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Achu2234/HaritaRobot)
 
 ### Warning
 - Harita is an open source project under gpl v3
